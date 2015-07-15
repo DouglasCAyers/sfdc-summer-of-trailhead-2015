@@ -1,0 +1,4 @@
+config/
+*.sublime-workspace
+*.sublime-settings
+*.sublime-project
