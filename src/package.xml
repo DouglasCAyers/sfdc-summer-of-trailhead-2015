@@ -14,11 +14,7 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>Cascade_Account_Shipping_Address_to_Contacts-2</members>
-        <members>Chatter_Post_Big_Wins-2</members>
-        <members>Close_Lost_Opporunities_for_Inactive_Accounts-1</members>
-        <members>Create_Account_Contact_from_Opportunity-1</members>
-        <members>Validate_Account-1</members>
+        <members>*</members>
         <name>Flow</name>
     </types>
     <types>
